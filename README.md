@@ -18,6 +18,14 @@ El ecosistema está desacoplado en dos capas principales para mantener la separa
 | **Backend AI** | Python, PyTorch |
 | **Comunicación Bidireccional**| Unity ML-Agents Toolkit |
 
+## 🎯 Objetivos del agente
+
+Navegación: Alcanzar coordenadas objetivo de forma eficiente.
+
+Evasión de Colisiones: Utilizar sensores simulados para detectar obstáculos en el agua y corregir el trayecto.
+
+Físicas Realistas: Controlar la aceleración y el torque respetando las físicas de un vehículo marítimo (arrastre, inercia).
+
 ## 🚀 Guía de Inicio Rápido
 
 ### 1. Configuración del Entorno de Entrenamiento (Backend)
