@@ -95,3 +95,7 @@ tensorboard_logs/
 .DS_Store
 Thumbs.db
 *.log
+
+# CLAUDE.md file
+CLAUDE.md
+CLAUDE.local.md
