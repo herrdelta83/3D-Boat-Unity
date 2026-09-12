@@ -2003,7 +2003,7 @@ MonoBehaviour:
     hasUpgradedBrainParametersWithActionSpec: 1
   m_Model: {fileID: 0}
   m_InferenceDevice: 0
-  m_BehaviorType: 1
+  m_BehaviorType: 0
   m_BehaviorName: BoatAgent
   TeamId: 0
   m_UseChildSensors: 1
@@ -2029,6 +2029,7 @@ MonoBehaviour:
   motorPower: 50
   turnPower: 15
   targetGoal: {fileID: 1156575040}
+  forwardReference: {fileID: 1685822375}
 --- !u!1 &1547633634
 GameObject:
   m_ObjectHideFlags: 0
